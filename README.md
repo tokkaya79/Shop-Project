@@ -1,4 +1,4 @@
-# React shop-project simple portfolio
+# Shop-project
 
 [Demo](https://tokkaya79.github.io/shop-project).
 
